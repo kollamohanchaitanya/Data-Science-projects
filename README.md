@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @kollamohanchaitanya
-- 👀 I’m interested in Machine Learning and Data Analysis projects
-- 🌱 I completed my masters at New York Institute of Technology in Data Science
-- 💞️ I’m looking forward to work on any Data Science related internships and jobs
-- 📫 Kindly reach out to me using my MailID - kollamohanchaitanya@gmail.com
-
-<!---
-kollamohanchaitanya/kollamohanchaitanya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+With over four years of comprehensive experience spanning roles as a Data Scientist, Machine Learning Engineer, Software Engineer, and Data Analyst across esteemed organizations such as Outlier, New York Institute of Technology, Cleartax, and Zoho Company, I bring a robust skill set and a wealth of expertise in data analytics, machine learning, and software development. Armed with a Master's degree in Data Science from New York Institute of Technology and a Bachelor's degree in Computer Science from Vel Tech University, I have consistently demonstrated proficiency in SQL, Python, Tableau, and a plethora of other tools and technologies vital for extracting actionable insights from complex datasets. Noteworthy projects include a detailed analysis of the medical equipment supply chain landscape and a Tableau dashboard project illuminating trends in the tech job market. Eager to leverage my skills and experiences to drive impactful analytics initiatives, I am keen on contributing to Walmart's data-driven decision-making processes as a Data Analyst.
